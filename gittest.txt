@@ -2,4 +2,8 @@ git is a happy version control system.
 git is free software.
 hello world
 my git has test
+<<<<<<< HEAD
 ceshi chongtu
+=======
+wowoowowoowow
+>>>>>>> 测试冲突aaa
