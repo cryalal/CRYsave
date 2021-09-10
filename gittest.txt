@@ -3,7 +3,12 @@ git is free software.
 hello world
 my git has test
 <<<<<<< HEAD
+<<<<<<< HEAD
 ceshi chongtu
 =======
 wowoowowoowow
 >>>>>>> 测试冲突aaa
+=======
+wowoowowoowow
+ceshi chongtu
+>>>>>>> 9de605e7d93abff86fa87bcf1f5ce74dce854034
